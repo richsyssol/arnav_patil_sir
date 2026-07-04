@@ -9,3 +9,13 @@ https://cdn.jsdelivr.net/gh/richsyssol/arnav_patil_sir@main/one_to_one_business_
 https://cdn.jsdelivr.net/gh/richsyssol/arnav_patil_sir@main/pia_parekh.mp4
 
 https://cdn.jsdelivr.net/gh/richsyssol/arnav_patil_sir@main/soham_rajapurkar.mp4
+
+https://cdn.jsdelivr.net/gh/richsyssol/arnav_patil_sir@main/jewellery_business_workshop_events.jpeg
+
+https://cdn.jsdelivr.net/gh/richsyssol/arnav_patil_sir@main/one_t_one_consultation.jpeg
+
+https://cdn.jsdelivr.net/gh/richsyssol/arnav_patil_sir@main/jewellery_business_excellence_new.jpeg
+
+https://cdn.jsdelivr.net/gh/richsyssol/arnav_patil_sir@main/jewellery_business_masterclass_new.jpeg
+
+https://cdn.jsdelivr.net/gh/richsyssol/arnav_patil_sir@main/workshop_events_new.png
