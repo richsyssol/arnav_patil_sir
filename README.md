@@ -19,3 +19,5 @@ https://cdn.jsdelivr.net/gh/richsyssol/arnav_patil_sir@main/jewellery_business_e
 https://cdn.jsdelivr.net/gh/richsyssol/arnav_patil_sir@main/jewellery_business_masterclass_new.jpeg
 
 https://cdn.jsdelivr.net/gh/richsyssol/arnav_patil_sir@main/workshop_events_new.png
+
+https://cdn.jsdelivr.net/gh/richsyssol/arnav_patil_sir@main/vip_inner_circle_ent_batch.jpeg
